@@ -1,0 +1,33 @@
+body {
+    text-align: center;
+}
+
+.center{
+    margin-left: auto;
+    margin-right: auto;
+    display: inline-block;
+}
+
+.buttonLink{
+    position: absolute;
+    right: 0;
+    margin-top: -60px;
+}
+
+.backgroundImage{
+    background-image: url("https://img.elo7.com.br/product/original/333A3EF/tecido-bts-degrade-fundo-branco-45-x-90-cm-bs01-grupo.jpg");
+}
+
+.centrarConteudo{
+    margin-top: 40vh;
+}
+
+
+
+  
+  
+  
+  
+
+
+
